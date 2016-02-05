@@ -1,0 +1,5 @@
+{
+  "name": "test-app",
+  "main": "index.html",
+  "bg-script": "crash.js"
+}
